@@ -1,0 +1,4 @@
+name: MC-TCP-Server
+version: '1.0'
+main: me.nelmin.spigot.MinecraftTCP
+api-version: '1.21'
